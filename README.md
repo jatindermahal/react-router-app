@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Introduction
-This prjoect uses react hooks to keep track of state and render data as soon as data changes. This also uses react router to route between pages.
+This project uses react hooks to keep track of state and render components as soon as data changes. This also uses react router to route between pages.
 
 ### Live Working
 Deployed [here](https://react-router-app-gamma.vercel.app/).
